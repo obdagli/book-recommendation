@@ -1,5 +1,4 @@
 ## Kitap öneri sistemi
-*-Written in C Language-*
 
 ### Programın çalışma mantığı
 
